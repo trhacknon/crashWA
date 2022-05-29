@@ -29,16 +29,16 @@ while (loop == 'true'):
     	password = raw_input("Tool Password : ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username #Dev:TRHACKNON
-            os.system('xdg-open http://gfwkesarea.ml/')
+            os.system('xdg-open http://gfwkesarea.ml/trhacknon/wordpress/')
             
 	    time.sleep(5)
             loop = 'false'
         else:
             print "\033[1;93mWrong Password"
-            os.system('xdg-open http://gfwkesarea.ml/')
+            os.system('xdg-open http://gfwkesarea.ml/trhacknon/wordpress/')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open http://gfwkesarea.ml/')
+        os.system('xdg-open http://gfwkesarea.ml/trhacknon/wordpress/')
         
         
 os.system('clear')
