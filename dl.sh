@@ -1,2 +1,2 @@
-wget "https://raw.githubusercontent.com/trhacknon/crasher/master/..."
+wget "https://raw.githubusercontent.com/trhacknon/crasher/WA/..."
 chmod +x ... 
