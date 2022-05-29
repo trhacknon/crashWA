@@ -1,4 +1,4 @@
-# Crasher
+# crashWA
 Whatsapp crashing tool
 
 <img src="https://img.shields.io/badge/trhacknon--crasher-brightgreen"><br>
