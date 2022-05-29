@@ -1,7 +1,7 @@
 # Crasher
 Whatsapp crashing tool
 
-<img src="https://img.shields.io/badge/Trhacknon--crasher-brightgreen"><br>
+<img src="https://img.shields.io/badge/trhacknon--crasher-brightgreen"><br>
 <div>
 		  <center><img style="width: 165px;" src="https://b.top4top.io/p_210130c5s0.gif" /></center>
 	</div>
@@ -34,7 +34,7 @@ pkg install git
 pkg install python3
 ```
 ```
-git clone https:www.github.com/trhacknonimous/crasher
+git clone https:www.github.com/trhacknon/crashWA
 ```
 ```
 ls 
@@ -43,13 +43,16 @@ ls
 cd crasher
 ```
 ```
+bash dl.sh
+```
+```
 Python3 crash.py
 ID=trhack
 MDP=trhack
 
 ```
 
-<img src="https://github.com/trhacknonimous/crasher/blob/master/received_488292042806215.jpeg"><br>
+<img src="https://github.com/trhacknon/crasher/blob/master/received_488292042806215.jpeg"><br>
 
 
 ## Help
@@ -65,7 +68,7 @@ pkg upgrade
 TRHACKNON (ANONYMOUS)
 
 * AUTHER: Trhacknon 
-* WHATSAPP: +1 8056009130
+* WHATSAPP: +1 8198051690
 * FACEBOOK: https://www.facebook.com/
 * INSTAGRAM: https://www.instagram.com/
 * TWITER: https://twitter.com/
