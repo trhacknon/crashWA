@@ -47,6 +47,8 @@ bash dl.sh
 ```
 ```
 Python3 crash.py
+
+When the website open in terminal presse ctrl -C
 ID=trhack
 MDP=trhack
 
