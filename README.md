@@ -40,7 +40,7 @@ git clone https:www.github.com/trhacknon/crashWA
 ls 
 ```
 ```
-cd crasher
+cd crashWA
 ```
 ```
 bash dl.sh
@@ -52,7 +52,7 @@ MDP=trhack
 
 ```
 
-<img src="https://github.com/trhacknon/crasher/blob/master/received_488292042806215.jpeg"><br>
+<img src="https://github.com/trhacknon/crashWA/blob/master/received_488292042806215.jpeg"><br>
 
 
 ## Help
