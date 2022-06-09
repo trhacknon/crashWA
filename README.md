@@ -34,7 +34,7 @@ pkg install git
 pkg install python3
 ```
 ```
-git clone https:www.github.com/trhacknon/crashWA
+git clone https://www.github.com/trhacknon/crashWA
 ```
 ```
 ls 
